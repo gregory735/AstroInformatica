@@ -1,0 +1,12 @@
+pip install pyfits
+ou
+conda install pyfits
+
+
+
+Abrir o console
+
+c:\temp\astroinformatica1\aula04
+move pyfits c:\anaconda3\lib\site-packages
+cd c:\anaconda3\scripts
+jupyter notebook --port=8889

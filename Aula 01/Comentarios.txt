@@ -1,0 +1,15 @@
+SABA ---> conferencia sobre astronomia, lá é possivel enviar o trabalho para avaliação
+
+
+JSON <--- biblioteca python para multiprocessamento
+
+
+salvar python no formato pyc > deixa em formato C
+
+
+Para fazer o python trabalhar na placa gráfica podemos usar o: pycuda
+
+
+JUPYTER = 'JU'lia 'PYT'hon 'E'rlang 'R'
+
+Ipython = python interativo

@@ -1,0 +1,4 @@
+FITS é um padrão para trabalhar com astronomia
+
+HDU = header data unit ---- HDuU é formado por um cabeçalho e dados que podem ser binario ou string. um conjundo de hdu é
+chamado de hdu list

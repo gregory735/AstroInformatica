@@ -1,0 +1,5 @@
+www.astroml.org   >>>>>>>>> vai para Examples Plots acessar: data set examples, 
+Data ser examples e machine learnind and data modeling.
+
+
+comp.lang.python <<--- forum para tirar duvidas sobre o python

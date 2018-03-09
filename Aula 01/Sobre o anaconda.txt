@@ -1,0 +1,18 @@
+cd c:\ anaconda3
+cd scripts
+jupyter notebook --port=8889 (a parte da porta só se usa no Mackenzie pois ele bloquea)
+
+
+
+O MARKDOWN do jupyter pode usar os comandos do HTML para fazer alterações no texto
+é possivel fazer controle de versão usando o save and checkpoint
+
+
+
+""" O cd quer dizer change directore"""
+Para fazer o python trabalhar na placa gráfica podemos usar o: pycuda
+
+
+JUPYTER = 'JU'lia 'PYT'hon 'E'rlang 'R'
+
+Ipython = python interativo
